@@ -1,4 +1,7 @@
 transformers==4.36.2
-accelerate
-torch
 flask
+transformers
+torch
+gunicorn
+accelerate
+sentencepiece
